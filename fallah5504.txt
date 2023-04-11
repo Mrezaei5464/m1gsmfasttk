@@ -1,2 +1,0 @@
-node1:
-vless://0f482b7c-56a3-4423-8a20-81fe7b757d06@mci1.vipgsm.cloud:2083?encryption=none&security=tls&sni=vbvbvbvp1.vipgsm.cloud&fp=randomized&type=ws&host=vip1.vipgsm.cloud&path=%2Fwss16181#mci1%2F2201%2Fvip2%2F-fallah5504
